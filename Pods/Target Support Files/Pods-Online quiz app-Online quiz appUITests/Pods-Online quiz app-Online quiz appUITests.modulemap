@@ -1,0 +1,6 @@
+framework module Pods_Online_quiz_app_Online_quiz_appUITests {
+  umbrella header "Pods-Online quiz app-Online quiz appUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
